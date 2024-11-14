@@ -12,11 +12,7 @@
 <jsp:include page="../shared/header.jsp" />
 
 <jsp:include page="../shared/nav.jsp" />
-<%
-    if (request.getAttribute("success") != null) {
-// diêu kien
 
-%>
 <script>
     Swal.fire({
         title: "Good job!",
