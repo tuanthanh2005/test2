@@ -30,7 +30,7 @@
                     ArrayList<Hoa> dsHoa = hoaDAO.getTop10();
                     for(Hoa x : dsHoa)
                     {
-                  // thêm diều kiện
+           
                 %>
                 
                 <div class="col-12 col-md-6 col-lg-4">

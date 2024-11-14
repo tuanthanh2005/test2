@@ -15,6 +15,9 @@
 <%
     Hoa hoa = (Hoa) request.getAttribute("hoa");
     ArrayList<Loai> dsLoai = (ArrayList<Loai>) request.getAttribute("dsLoai");
+    
+// ghi chú
+
 %>
 
 <div class="container">
